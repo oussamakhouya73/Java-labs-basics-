@@ -1,4 +1,3 @@
-// Java-labs-basics-
 import java.util.Scanner;
 
 public class DistanceCalculator {
